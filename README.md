@@ -1,4 +1,4 @@
-# loopback-connector-mssql
+# loopback-connector-msnodesqlv8
 
 [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/default.aspx) is a relational database management system developed by Microsoft.
 The `loopback-connector-mssql` module is the Microsoft SQL Server connector for the LoopBack framework.
@@ -12,7 +12,7 @@ For more information, see <a href="http://loopback.io/doc/en/lb3/SQL-Server-conn
 In your application root directory, enter:
 
 ```shell
-$ npm install loopback-connector-mssql --save
+$ npm install loopback-connector-msnodesqlv8 --save
 ```
 
 This will install the module from npm and add it as a dependency to the application's `package.json` file.
